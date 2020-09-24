@@ -12,6 +12,7 @@ package mycompany.com.holamundomvc;
 public class Application {
 
     /**
+     * Main method.
      * @param args the command line arguments
      */
     public static void main(String[] args) {
