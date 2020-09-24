@@ -6,7 +6,7 @@
 package mycompany.com.holamundomvc;
 
 /**
- *
+ * This is the application class for the hello world MVC app. 
  * @author jmarturi
  */
 public class Application {
